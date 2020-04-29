@@ -3,6 +3,7 @@
 доки в JavaInstructions.pdf и https://github.com/JetBrains/gradle-intellij-plugin/
 
 #роадмап:
+
 ####MVP
 * погуглить хуки на завершение сборки
 * поймать их 
